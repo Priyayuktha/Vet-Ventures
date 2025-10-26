@@ -94,6 +94,7 @@ Future Enhancements
 📱 Mobile app version using Flutter or React Native
 
 🧠 AI-based health recommendations for pets
+
 ---
 ## 👨‍💻 Team - 4 
 -   **Priya R**
