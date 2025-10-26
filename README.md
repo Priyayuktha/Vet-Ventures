@@ -96,8 +96,4 @@ Future Enhancements
 🧠 AI-based health recommendations for pets
 Author
 
- ## Contributors
-**Priya R**
-**Chethana S N**
-💻 Developer – Full Stack (Frontend: HTML, CSS, JS, Bootstrap | Backend: PHP, MySQL)
 
