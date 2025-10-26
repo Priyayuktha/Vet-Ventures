@@ -82,7 +82,7 @@ Login Credentials (Example)
 Admin: admin@gmail.com / admin123
 
 User: Register through the signup page
-
+---
 Future Enhancements
 
 🧾 Digital PDF prescriptions with doctor’s signature
@@ -94,6 +94,9 @@ Future Enhancements
 📱 Mobile app version using Flutter or React Native
 
 🧠 AI-based health recommendations for pets
-Author
+---
+## 👨‍💻 Team - 4 
+-   **Priya R**
+-   **Chethana S N**
 
 
