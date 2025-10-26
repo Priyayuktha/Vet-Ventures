@@ -97,7 +97,7 @@ Future Enhancements
 Author
 
  ## Contributors
-Priya R
-Chethana S N
+**Priya R**
+**Chethana S N**
 💻 Developer – Full Stack (Frontend: HTML, CSS, JS, Bootstrap | Backend: PHP, MySQL)
 
