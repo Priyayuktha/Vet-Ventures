@@ -96,7 +96,7 @@ Future Enhancements
 🧠 AI-based health recommendations for pets
 
 ---
-## 👨‍💻 Team  memembers
+## 👨‍💻 Team  members
 -   **Priya R**
 -   **Chethana S N**
 
